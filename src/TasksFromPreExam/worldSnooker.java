@@ -1,4 +1,4 @@
-package zadachiOtPredvaritelen;
+package TasksFromPreExam;
 
 import java.util.Scanner;
 
